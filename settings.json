@@ -2,5 +2,9 @@
   "enabledPlugins": {
     "andrej-karpathy-skills@karpathy-skills": true
   },
-  "language": "Korean"
+  "language": "Korean",
+  "permissions": {
+	  "allow": ["mcp__playwright"],
+	  "deny" : []
+  }
 }
