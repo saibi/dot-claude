@@ -1,10 +1,12 @@
 {
+  "permissions": {
+    "allow": [
+      "mcp__playwright"
+    ],
+    "deny": []
+  },
   "enabledPlugins": {
     "andrej-karpathy-skills@karpathy-skills": true
   },
-  "language": "Korean",
-  "permissions": {
-	  "allow": ["mcp__playwright"],
-	  "deny" : []
-  }
+  "language": "Korean"
 }
